@@ -1,5 +1,9 @@
 #lang racket
 
+|#
+My first ever game in racket :)
+#|
+
 (define lower 1)
 (define upper 100)
 
